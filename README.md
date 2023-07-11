@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syfulsharif
 - 👀 I’m interested in Flutter, JavaScript and Go.
 - 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on Python Projects/GoLang Projects.
+- 💞️ I’m looking forward to collaborating on Python Projects/GoLang Projects.
 - 📫 You can reach me at sharif.syful@gmail.com
 
 <!---
