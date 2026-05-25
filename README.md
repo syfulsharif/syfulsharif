@@ -91,14 +91,6 @@ Currently exploring:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syfulsharif&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syfulsharif&layout=compact)
-
----
-
 ## 🌱 Currently Learning
 
 - AI Agents
